@@ -1,1 +1,1 @@
-# bankruptcy-prediction-dataset
+# bankruptcy-prediction
